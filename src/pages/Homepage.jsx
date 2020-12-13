@@ -3,9 +3,7 @@ import React from "react";
 function Homepage() {
     return(
         <div>
-            <p>
-                Check it out?
-            </p>
+            <p>Hello from Homepage!</p>
         </div>
     )
 }
