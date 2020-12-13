@@ -3,18 +3,21 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./component/Navbar/Navbar";
 import Header from "./component/Header/Header";
 import Footer from "./component/Footer/Footer";
+import Homepage from "./pages/Homepage"
 import './App.css';
+
+
 function App() {
   return (
     <Router>
       <div>
         <Navbar />     
-        <Header />   
+        {/* <Header />    */}
+          <Route exact path="/" component={Homepage} />
           {/* <Route exact path="/" component={} />
           <Route exact path="/" component={} />
-          <Route exact path="/" component={} />
           <Route exact path="/" component={} />         */}
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </Router>
   );
