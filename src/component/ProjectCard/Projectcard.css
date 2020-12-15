@@ -1,0 +1,15 @@
+.card {
+    min-width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-container {
+    max-width: 200px;
+    height: auto;
+}
+
+.linkTag {
+    display: block;
+}
