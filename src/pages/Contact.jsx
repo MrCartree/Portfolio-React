@@ -5,7 +5,7 @@ function Contact() {
     return (
         <React.Fragment>
             <Header page="Contact Me"/>
-            <div>
+            <div className="contactCard">
                 <div className="card">
                     <div className="card-body">
                         <h5 className="card-title">Contact Me</h5>

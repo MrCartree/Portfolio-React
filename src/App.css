@@ -43,11 +43,18 @@
   flex-direction: column;
 }
 
+.contactCard {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 .card {
-  min-width: 500px;
+  width: 450px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: none;
 }
 
 .card-body {
@@ -55,6 +62,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.card-text {
+  margin: 25px;
 }
 
 .myImageContainer {
