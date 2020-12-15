@@ -5,7 +5,7 @@ function Homepage() {
     return (
         <React.Fragment>
             <Header page="About" />
-            <div>
+            <div className="aboutPage" >
                 <div className="card">
                     <div className="card-body">
                         <h5 className="card-title">About Me</h5>

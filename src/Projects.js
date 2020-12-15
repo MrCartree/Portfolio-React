@@ -5,7 +5,7 @@ export const Projects = [
         "about": "",
         "gitHub": "https://github.com/MrCartree/Ultimate-Streaming-Guide",
         "deployed": "https://imbingz.github.io/Ultimate-Streaming-Guide/",
-        "img": "/images/Project-1-Screenshot.png",
+        "img": "/images/StreamingGUide.png",
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@ export const Projects = [
         "about": "",
         "gitHub": "https://github.com/SydneyGoodwill/amalganation",
         "deployed": "https://fast-woodland-71053.herokuapp.com/login",
-        "img": ""
+        "img": "/images/Amalganation.png"
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@ export const Projects = [
         "about": "",
         "gitHub": "https://github.com/MrCartree/daily-planner",
         "deployed": "https://mrcartree.github.io/daily-planner/",
-        "img": ""
+        "img": "/images/WorkDayPlanner.png"
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@ export const Projects = [
         "about": "",
         "gitHub": "https://github.com/MrCartree/Employee-Directory",
         "deployed": "https://mrcartree.github.io/Employee-Directory/",
-        "img": ""
+        "img": "/images/EmployeeDirectory.png"
     },
     {
         "id": "5",
@@ -37,6 +37,6 @@ export const Projects = [
         "about": "",
         "gitHub": "https://github.com/MrCartree/budget-tracker",
         "deployed": "https://still-journey-37573.herokuapp.com/",
-        "img": ""
+        "img": "/images/BudgetTracker.png"
     }
 ]

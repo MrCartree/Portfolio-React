@@ -37,6 +37,26 @@
   }
 }
 
+.aboutPage {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card {
+  min-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-body {
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .myImageContainer {
   max-width: 200px;
   height: auto;
@@ -45,6 +65,8 @@
 .myImage {
   max-width: 200px;
   height: auto;
+  border-radius: 50%;
+
 }
 
 .projectCards {
