@@ -3,8 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 
 // components
 import Navbar from "./component/Navbar/Navbar";
-// import Header from "./component/Header/Header";
-// import Footer from "./component/Footer/Footer";
+import Footer from "./component/Footer/Footer";
 
 // pages
 import Homepage from "./pages/Homepage";
@@ -20,11 +19,10 @@ function App() {
     <Router>
       <div>
         <Navbar />     
-        {/* <Header />    */}
           <Route exact path="/" component={Homepage} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
-        {/* <Footer /> */}
+        <Footer />
       </div>
     </Router>
   );

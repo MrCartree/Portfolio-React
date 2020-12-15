@@ -11,8 +11,7 @@ function ProjectCard(props) {
             <div className="card-body">
                 <p className="card-text">{props.about}</p>
                 <a href={props.gitHub} ><img src="/images/iconmonstr-github-5-48.png" alt="Link to repo" /></a>
-                <a className="linkTag" href={props.deployed} >Link to site</a>
-                <p className="card-text"></p>
+                <a className="linkTag" href={props.deployed} >Go to the deployed site here!</a>
             </div>
         </div>
     )
