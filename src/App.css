@@ -37,6 +37,16 @@
   }
 }
 
+.myImageContainer {
+  max-width: 200px;
+  height: auto;
+}
+
+.myImage {
+  max-width: 200px;
+  height: auto;
+}
+
 .projectCards {
   display: flex;
   align-items: center;
