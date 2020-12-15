@@ -4,7 +4,7 @@ import Resume from "../../pages/Resume.pdf"
 
 function Navbar() {
     return (
-        <nav className="nav">
+        <nav className="nav float-right">
             <li className="nav-item">
                 <Link 
                     className="nav-link" 
