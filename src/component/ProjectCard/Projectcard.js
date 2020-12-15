@@ -1,5 +1,6 @@
 import React from "react";
 import "./Projectcard.css"
+import GitHub from "../../assets/images/iconmonstr-github-5-48.png"
 
 function ProjectCard(props) {
     return (
@@ -10,7 +11,7 @@ function ProjectCard(props) {
             </div>
             <div className="card-body">
                 <p className="card-text">{props.about}</p>
-                <a href={props.gitHub} ><img src="/images/iconmonstr-github-5-48.png" alt="Link to repo" /></a>
+                <a href={props.gitHub} ><img src={GitHub} alt="Link to repo" /></a>
                 <a className="linkTag" href={props.deployed} >Go to the deployed site here!</a>
             </div>
         </div>
