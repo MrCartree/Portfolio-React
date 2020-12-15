@@ -1,5 +1,8 @@
 import React from "react";
 import Header from "../component/Header/Header"
+import Mail from "../assets/images/iconmonstr-email-11-48.png"
+import GitHub from "../assets/images/iconmonstr-github-5-48.png"
+import LinkedIn from "../assets/images/iconmonstr-linkedin-5-48.png"
 
 function Contact() {
     return (
@@ -13,13 +16,13 @@ function Contact() {
 
                         <div className="row">
                             <div className="column">
-                                <a href="mailto:zach.lafleur95@gmail.com?subject=Contact Me" ><img src="/images/iconmonstr-email-11-48.png" alt="email icon" className="icon" /></a>
+                                <a href="mailto:zach.lafleur95@gmail.com?subject=Contact Me" ><img src={Mail} alt="email icon" className="icon" /></a>
                             </div>
                             <div className="column">
-                                <a href="https://github.com/MrCartree" ><img src="/images/iconmonstr-github-5-48.png" alt="github icon" className="icon github" /></a>
+                                <a href="https://github.com/MrCartree" ><img src={GitHub} alt="github icon" className="icon github" /></a>
                             </div>
                             <div className="column">
-                                <a href="https://www.linkedin.com/in/zacharie-lafleur-67b4121b2/" ><img src="/images/iconmonstr-linkedin-5-48.png" alt="email icon" className="icon" /></a>
+                                <a href="https://www.linkedin.com/in/zacharie-lafleur-67b4121b2/" ><img src={LinkedIn} alt="email icon" className="icon" /></a>
                             </div>
                         </div>
 
