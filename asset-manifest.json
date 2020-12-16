@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.bae86d88.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.828027ac.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.828027ac.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.add3d881.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.add3d881.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Portfolio-React/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.102afb93.chunk.js": "/Portfolio-React/static/js/2.102afb93.chunk.js",
+    "static/js/2.102afb93.chunk.js.map": "/Portfolio-React/static/js/2.102afb93.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Portfolio-React/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.bae86d88.chunk.css.map": "/Portfolio-React/static/css/main.bae86d88.chunk.css.map",
+    "static/js/2.102afb93.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.102afb93.chunk.js.LICENSE.txt",
+    "static/media/Amalganation.80839a0e.PNG": "/Portfolio-React/static/media/Amalganation.80839a0e.PNG",
+    "static/media/BudgetTracker.3e3e1849.PNG": "/Portfolio-React/static/media/BudgetTracker.3e3e1849.PNG",
+    "static/media/EmployeeDirectory.4dc07f7b.PNG": "/Portfolio-React/static/media/EmployeeDirectory.4dc07f7b.PNG",
+    "static/media/Me.28086406.jpg": "/Portfolio-React/static/media/Me.28086406.jpg",
+    "static/media/Resume.d44ff1d4.pdf": "/Portfolio-React/static/media/Resume.d44ff1d4.pdf",
+    "static/media/StreamingGuide.c8a04ddc.PNG": "/Portfolio-React/static/media/StreamingGuide.c8a04ddc.PNG",
+    "static/media/WorkDayPlanner.35dbd7fd.PNG": "/Portfolio-React/static/media/WorkDayPlanner.35dbd7fd.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add3d881.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.102afb93.chunk.js",
+    "static/css/main.bae86d88.chunk.css",
+    "static/js/main.828027ac.chunk.js"
+  ]
+}
