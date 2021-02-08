@@ -1,3 +1,7 @@
+.projectCards {
+    margin-bottom: 60px;
+}
+
 .card {
     min-width: 500px;
     display: flex;
