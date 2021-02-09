@@ -24,6 +24,12 @@ function Navbar() {
                 >Projects</Link>
             </li>
             <li className="nav-item">
+                <Link 
+                    className="nav-link" 
+                    to="/Blog"
+                >Blog</Link>
+            </li>
+            <li className="nav-item">
                 <a 
                     className="nav-link" 
                     href={Resume}

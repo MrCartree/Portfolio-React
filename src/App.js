@@ -8,7 +8,8 @@ import Footer from "./component/Footer/Footer";
 // pages
 import Homepage from "./pages/Homepage";
 import Contact from "./pages/Contact";
-import Portfolio from "./pages/Portfolio"
+import Portfolio from "./pages/Portfolio";
+import Blog from "./pages/Blog";
 
 
 import './App.css';
@@ -22,6 +23,7 @@ function App() {
           <Route exact path="/" component={Homepage} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
+          <Route exact path="/blog" component={Blog} />
         <Footer />
       </div>
     </Router>
