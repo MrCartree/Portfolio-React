@@ -4,6 +4,14 @@
     flex-direction: column;
     align-items: center;
     margin: auto;
-    width: 50%;
+    width: 75%;
     padding: 10px;
+}
+
+.card-body {
+    padding-top: none;
+}
+
+.card-text{
+    margin-top: 0px !important;
 }
