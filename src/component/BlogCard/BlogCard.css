@@ -1,4 +1,4 @@
-.card {
+.blog-card {
     min-width: 500px;
     display: flex;
     flex-direction: column;
@@ -6,6 +6,7 @@
     margin: auto;
     width: 75%;
     padding: 10px;
+    margin-bottom: 60px;
 }
 
 .card-body {
