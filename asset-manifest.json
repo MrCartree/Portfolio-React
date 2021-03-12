@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.8c0d968d.chunk.css",
-    "main.js": "/Portfolio-React/static/js/main.ab82a725.chunk.js",
-    "main.js.map": "/Portfolio-React/static/js/main.ab82a725.chunk.js.map",
+    "main.js": "/Portfolio-React/static/js/main.8617e54f.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.8617e54f.chunk.js.map",
     "runtime-main.js": "/Portfolio-React/static/js/runtime-main.add3d881.js",
     "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.add3d881.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/Portfolio-React/static/css/2.20aa2d7b.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/Amalganation.80839a0e.PNG": "/Portfolio-React/static/media/Amalganation.80839a0e.PNG",
     "static/media/BudgetTracker.3e3e1849.PNG": "/Portfolio-React/static/media/BudgetTracker.3e3e1849.PNG",
     "static/media/EmployeeDirectory.4dc07f7b.PNG": "/Portfolio-React/static/media/EmployeeDirectory.4dc07f7b.PNG",
+    "static/media/KeepWritting.1089a6f9.PNG": "/Portfolio-React/static/media/KeepWritting.1089a6f9.PNG",
     "static/media/Me.28086406.jpg": "/Portfolio-React/static/media/Me.28086406.jpg",
     "static/media/Resume.d44ff1d4.pdf": "/Portfolio-React/static/media/Resume.d44ff1d4.pdf",
     "static/media/StreamingGuide.c8a04ddc.PNG": "/Portfolio-React/static/media/StreamingGuide.c8a04ddc.PNG",
@@ -25,6 +26,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.e4fc5846.chunk.js",
     "static/css/main.8c0d968d.chunk.css",
-    "static/js/main.ab82a725.chunk.js"
+    "static/js/main.8617e54f.chunk.js"
   ]
 }
