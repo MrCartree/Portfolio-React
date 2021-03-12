@@ -2,9 +2,17 @@ import StreamingGuide from "./assets/images/StreamingGuide.PNG";
 import Amalganation from "./assets/images/Amalganation.PNG";
 import DailyPlanner from "./assets/images/WorkDayPlanner.PNG";
 import EmployeeDirectory from "./assets/images/EmployeeDirectory.PNG";
-import BudgetTracker from "./assets/images/BudgetTracker.PNG"
+import BudgetTracker from "./assets/images/BudgetTracker.PNG";
+import KeepWriting from "./assets/images/KeepWritting.PNG";
 
 export const Projects = [
+    {
+        "id": "0",
+        "project": "Keep Writing",
+        "about": "Keep Writing is a website designed to help people get in the good habit of writing. This is a Ruby on Rails back end with a react front end. I was in charge and helped in the creation of the admin portion which allows admins to see basic user information and check if they are up to date with their payments.",
+        "deployed": "https://www.keepwriting.io/",
+        "img": KeepWriting,
+    },
     {
         "id": "1",
         "project": "Streaming Guide",
