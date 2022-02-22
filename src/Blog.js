@@ -1,5 +1,11 @@
 export const Blog = [
     {
+        "id": "4",
+        "title": "We got Employed",
+        "date": "8/23/21",
+        "bloggy": "I had an interview at a Job called Simplifile for the position of a Technical Support Analyst. This day marks the day that I was hired on and officially started working for the company. So far I really enjoy the environments and the cluture has been very beneficial as well. It has been nice to learn to use anothers software and learn about the difficulties that come with that. I think it has provided a great way for me to learn how to better troubleshoot different errors and issues some peole may be experiencing. My goal to get more and more technical is closer each day.",
+    },
+    {
         "id": "3",
         "title": "Algorithms",
         "date": "2/19/21",
