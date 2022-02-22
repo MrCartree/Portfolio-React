@@ -1,5 +1,11 @@
 export const Blog = [
     {
+        "id": "5",
+        "title": "A Friends Website",
+        "date": "2/08/22",
+        "bloggy": "A friend of mine had reached out to me requesting a bit of assistance creating a website for him. I was eager to take the challenge and help him with his company site. This time I am following a few different methods than I previously have before. I am using Ubuntu instead of Git/GitBash. With this Ubuntu I have also looked into using a bit of Ruby and adding some Gems to help in the creation of the site. I have also been using Jekyll to help run the site while I continue work on it. This has been a project that I have been excited about for quite some time. A few of the requirements that I find a little difficult to complete (but by all means will complete) have been mobile responsiveness. I have used a little bit of Bootstrap 5 for a handful of things here and there, but for the most part its all been my doing. I will be posting the new project on this site as soon as I have it completed. It has been nice to get back into programing and coding.",
+    },
+    {
         "id": "4",
         "title": "We got Employed",
         "date": "8/23/21",
